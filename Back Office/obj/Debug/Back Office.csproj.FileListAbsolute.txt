@@ -1,0 +1,6 @@
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\bin\Debug\Back Office.dll
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\bin\Debug\Back Office.pdb
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\obj\Debug\Back Office.csproj.AssemblyReference.cache
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\obj\Debug\Back Office.csproj.CoreCompileInputs.cache
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\obj\Debug\Back Office.dll
+C:\Users\Paloma Rodrigues\source\repos\Aplicativo MVC\Back Office\obj\Debug\Back Office.pdb
